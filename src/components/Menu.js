@@ -5,37 +5,37 @@ const Items = [
   {
     name: "Carrot Halwa",
     ingredients: "Carrots, Sugar, Condense Milk",
-    photoName: "./foodMenu/items/carrotHalwa.jpeg",
+    photoName: "./items/carrotHalwa.jpeg",
     process: "easy",
   },
   {
     name: "Mutton Paya",
     ingredients: "Mutton Legs",
-    photoName: "./foodMenu/items/mutton.jpeg",
+    photoName: "./items/mutton.jpeg",
     process: "easy",
   },
   {
     name: "Chicken Lolipop",
     ingredients: "Deep fried chicken wings",
-    photoName: "./foodMenu/items/chicken.jpeg",
+    photoName: "./items/chicken.jpeg",
     process: "easy",
   },
   {
     name: "Pompfret Fish",
     ingredients: "White Pompfret Fish tawa fry",
-    photoName: "./foodMenu/items/fish.jpeg",
+    photoName: "./items/fish.jpeg",
     process: "easy",
   },
   {
     name: "Paneer Pratha",
     ingredients: "Indian cottage cheeze stuffed pratha",
-    photoName: "./foodMenu/items/paneer.jpeg",
+    photoName: "./items/paneer.jpeg",
     process: "easy",
   },
   {
     name: "Jalebi",
     ingredients: "Sweet dish tu banti hai",
-    photoName: "./foodMenu/items/Jalebi.jpeg",
+    photoName: "./items/Jalebi.jpeg",
     process: "difficult",
   },
 ];
@@ -46,7 +46,7 @@ function Menu() {
       <h2>Our Menu</h2>
       <p>
         Authentic Indian cuisine, straight from home made kitchen right under
-        the obervation of Chef Avinash 👨‍🍳.
+        the obervation of Chef Avinash 👨‍🍳
       </p>
       <ul className="pizzas">
         {Items.map((item) => (

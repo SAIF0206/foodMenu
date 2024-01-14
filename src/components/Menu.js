@@ -5,37 +5,37 @@ const Items = [
   {
     name: "Carrot Halwa",
     ingredients: "Carrots, Sugar, Condense Milk",
-    photoName: "./items/carrotHalwa.jpeg",
+    photoName: "./Items/carrotHalwa.jpeg",
     process: "easy",
   },
   {
     name: "Mutton Paya",
     ingredients: "Mutton Legs",
-    photoName: "./items/mutton.jpeg",
+    photoName: "./Items/mutton.jpeg",
     process: "easy",
   },
   {
     name: "Chicken Lolipop",
     ingredients: "Deep fried chicken wings",
-    photoName: "./items/chicken.jpeg",
+    photoName: "./Items/chicken.jpeg",
     process: "easy",
   },
   {
     name: "Pompfret Fish",
     ingredients: "White Pompfret Fish tawa fry",
-    photoName: "./items/fish.jpeg",
+    photoName: "./Items/fish.jpeg",
     process: "easy",
   },
   {
     name: "Paneer Pratha",
     ingredients: "Indian cottage cheeze stuffed pratha",
-    photoName: "./items/paneer.jpeg",
+    photoName: "./Items/paneer.jpeg",
     process: "easy",
   },
   {
     name: "Jalebi",
     ingredients: "Sweet dish tu banti hai",
-    photoName: "./items/Jalebi.jpeg",
+    photoName: "./Items/Jalebi.jpeg",
     process: "difficult",
   },
 ];
